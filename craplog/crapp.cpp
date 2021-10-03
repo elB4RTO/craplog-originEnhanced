@@ -110,7 +110,6 @@ std::list <std::string> SortList ( std::list <std::string> Sort ) {
 				n=1;
 			}
 		}
-		//std::cout<< k<<std::endl;
 		Sorted[Position] = k;
 	}
 	for ( m=0; m<Sort.size(); m++ ) {
@@ -246,7 +245,6 @@ std::list <std::string> SortTotalList ( std::list <std::string> Sort ) {
 					n=1;
 				}
 			}
-			//std::cout<< k<<std::endl;
 			Sorted[Position] = k;
 		}
 	}
