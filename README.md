@@ -1,13 +1,13 @@
 # Craplog Origin[Enhanced]
 
-CRAPLOG, enhanced using C++ code.
+Craplog, enhanced using C++.
 
 <br/>
 
 ### Warning
 
 This was the version of origin, enhanced using C++ to speed it up.<br/>
-It creates a CLEANED access logs file and creates statistics, but only makes GLOBAL statistics and only works on access logs.<br/><br/>
+It creates statistics and a cleaned access logs file, but only makes global statistics and only works on access logs.<br/><br/>
 **Please refer to the [other versions of Craplog](https://github.com/elB4RTO/CRAPLOG) for a complete version**.
 
 <br/>
