@@ -18,7 +18,7 @@ The file named "*crapp.cpp*" **must** be compiled to a file named "*crapp*" insi
 
 ```
 gcc crapp.cpp -o crapp
-chmod +x craplog.sh && exec craplog.sh
+chmod +x craplog.sh && ./craplog.sh
 ```
 
 <br/>
